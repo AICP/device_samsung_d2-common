@@ -25,3 +25,6 @@ PRODUCT_PROPERTY_OVERRIDES += \
 # camera
 PRODUCT_PROPERTY_OVERRIDES += \
     persist.camera.zsl.prop.enable=0
+
+#AICP Device Maintainers
+ro.aicp.maintainer=semdoc (doc HD)
