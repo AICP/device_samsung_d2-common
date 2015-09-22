@@ -292,4 +292,7 @@
 
     <bool name="config_enableWifiDisplay">true</bool>
 
+    <!-- Hardware keys on/off option -->
+    <bool name="config_hwKeysPref">true</bool>
+
 </resources>
