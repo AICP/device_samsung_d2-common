@@ -22,7 +22,4 @@
     <!-- Doze: does this device support STATE_DOZE and STATE_DOZE_SUSPEND?  -->
     <bool name="doze_display_state_supported">true</bool>
 
-    <!-- Doze: shake accelerometer threshold -->
-    <integer name="doze_shake_accelerometer_threshold">10</integer>
-
 </resources>
